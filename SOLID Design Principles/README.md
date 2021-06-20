@@ -9,6 +9,3 @@
 <p>L - Liskov Substitution Principle</p>
 <p>I - Interface Segregation Principle</p>
 <p>D - Dependency Inversion Principle</p>
-
-<h5>God Object</h5>
-<p>God Object - Object that know too much and or do too much, it is basically a class with lots of responsibilities and spaghetti code. It is an anti pattern of Single Responsibility Principle</p>
